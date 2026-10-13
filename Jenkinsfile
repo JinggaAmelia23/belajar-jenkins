@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('hello') {
             steps {
-                echo 'my jenkins pipeline'
+                echo 'Integrasi Jenkins dan GitHub berhasil!'
             }
         }
     }
